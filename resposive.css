@@ -64,7 +64,18 @@
       section{
         padding: 80px 20px;
       }
-      
+      .about .content{
+        position: relative;
+        flex-directiom: row;
+      }
+      .about .content .col-left{
+        position: relative;
+        width: 45%;
+      }
+      .about .content .col-right{
+        position: relative;
+        width: 50%;
+      }
 
 
 }
