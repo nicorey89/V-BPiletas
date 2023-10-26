@@ -188,14 +188,15 @@ section{
       display: flex;
       justify-content: space-between;
       margin-top: 20px;
+      flex-directiom: colum;
   }
   .about .content .col-left{
       position: relative;
-      width: 45%;
+      width: 90%;
   }
   .about .content .col-right{
     position: relative;
-    width: 50%;
+    width: 90%;
   }
   .about .content .col-left .img-card{
       position: relative;
