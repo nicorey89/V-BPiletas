@@ -188,7 +188,7 @@ section{
       display: flex;
       justify-content: space-between;
       margin-top: 20px;
-      flex-directiom: colum;
+      flex-directiom: column;
   }
   .about .content .col-left{
       position: relative;
