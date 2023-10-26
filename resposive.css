@@ -65,7 +65,7 @@
         padding: 80px 20px;
       }
       .about .content{
-        position: relative;
+        display: flex;
         flex-directiom: column;
       }
       .about .content .col-left{
